@@ -1,6 +1,9 @@
+  <img width="377" height="443" alt="GitCoruja" src="https://github.com/user-attachments/assets/49166587-699b-45d2-8a87-6285ab71f4e0" />
+
+
 # 👋 Olá, eu sou o Flamarion  
 
-"👨‍🦳📚💻 **Estudante de Ciência da Computação** |🎮 Aspirante a **Game Developer** | 💻 Estudante de **Ciência da Computação** | 🎨 Apaixonado Explorando **Game Design e Narrativas Interativas** | Foco em  **Programação e IA para Jogos** | **Futuro Criador de Jogos Independentes**
+👨‍🦳📚💻 **Estudante de Ciência da Computação** |🎮 Aspirante a **Game Developer** | 💻 Estudante de **Ciência da Computação** | 🎨 Apaixonado Explorando **Game Design e Narrativas Interativas** | Foco em  **Programação e IA para Jogos** | **Futuro Criador de Jogos Independentes**
 
 ---
 
