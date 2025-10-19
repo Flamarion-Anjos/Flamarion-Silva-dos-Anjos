@@ -11,7 +11,7 @@
 - 🌱 Atualmente estudando **C++ / C#**, **Unity** e **Unreal Engine**  
 - 🕹️ Interessado em **Design de Jogos**, **Sistemas de gameplay** e **IA para jogos**  
 - 📚 Sempre aprendendo mais sobre **programação, arte 2D/3D e Desenvolvimento de jogos**  
-- 🌍 Sonho em atuar no mercado de **jogos mundial**  
+- 🌍 Sonho em atuar no mercado de ** desenvolvimento de jogos mundial**  
 
 ---
 
