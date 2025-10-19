@@ -18,7 +18,7 @@
 ## 🛠️ Tecnologias e Ferramentas  
 - **Linguagens:** C++, C#, Python, JavaScript  
 - **Game Engines:** Unity, Unreal Engine  
-- **Ferramentas:** Git/GitHub, Blender, Krita, Gimp 
+- **Ferramentas:**  VSCode, Git/GitHub, Blender, Krita, Gimp 
 - **Áreas de interesse:** Game Development, Gameplay Programming, Narrativa, UI/UX, Multiplayer  
 
 ---
