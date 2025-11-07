@@ -6,8 +6,8 @@
 👨‍🦳📚💻 **Estudante de Ciência da Computação** |
 🎮 Aspirante a **Game Developer** | 
 🎨 Apaixonado Explorando **Game Design e Narrativas Interativas** | 
-  Foco em  **Programação e IA para Jogos** | 
-  **Futuro Criador de Jogos Independentes** |
+ - Foco em  **Programação e IA para Jogos** |
+ - **Futuro Criador de Jogos Independentes** |
 
 ---
 
